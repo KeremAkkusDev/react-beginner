@@ -36,3 +36,38 @@
     transform: rotate(360deg);
   }
 }
+
+.navbar{
+  height: 50px;
+  line-height: 50px;
+  width: 100%;
+  background-color: #5c5c5c;
+  color:antiquewhite;
+  margin:0 auto;
+  letter-spacing: 1px;
+}
+
+.navbar a{
+  color:aliceblue;
+  text-decoration: none;
+  margin-right: 20px;
+
+}
+
+.alt_navbar{
+  height: 10px;
+  width: 100%;
+  margin:0 auto;
+  background-color: antiquewhite;
+}
+
+.container{
+  height: 50vh;
+  width: 100%;
+  background-color:bisque;
+  margin: 0 auto;
+
+}
+h1 {
+  margin:0;
+}
